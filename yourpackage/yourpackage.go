@@ -1,4 +1,4 @@
-package github.com/RomanKarn/lesson1
+package yourpackage
 
 func AddInts(a, b int) int {
 	return a + b
